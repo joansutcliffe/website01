@@ -1,0 +1,116 @@
+body{
+	background-color:yellow;
+	font-family:arial;
+	color:blue;
+
+}
+
+
+body{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1,h2,h3,h4{
+	color: purple;
+	
+}
+
+p{
+	font-size:1em;
+}
+
+
+
+
+header{
+	background-color:pink;
+	padding:20px;
+	
+	
+	background-image: url(images/tiger.jpg);
+	background-position: right top;
+  background-repeat: no-repeat;
+  
+}
+
+main{
+	background-color:grey;
+	padding:20px;
+	
+}
+
+
+
+ul {
+  list-style-type: square;
+}
+
+img{
+	border-style: solid;
+	border-color: white;
+	border-width:20px;
+	
+	position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+h3 {
+	 border: 5px solid red;
+	}
+
+footer{
+	background-color:black;
+	padding:20px;
+	color:white;
+	text-align:center;
+	
+	
+}
+
+
+div.container{
+	background-color: #e6ecff;
+	padding:20px;
+	
+	width:800px;
+	margin:0 auto;
+	
+}
+
+
+/* unvisited link */
+a:link {
+  color: red;
+  text-decoration: none;
+  margin-right:20px;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
